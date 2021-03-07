@@ -3,7 +3,6 @@ import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useStyles } from './styles';
 
-useStyles
 const Count = () => {
   const classes = useStyles();
   const dispatch = useDispatch();

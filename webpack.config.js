@@ -11,7 +11,8 @@ var vendor = [
 	'query-string',
 	'react',
 	'react-dom',
-	'react-redux'
+	'react-redux',
+	'react-router-dom'
 ];
 var webpackConfig = {
 	entry: {
